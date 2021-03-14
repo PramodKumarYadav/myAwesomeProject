@@ -1,2 +1,4 @@
 This is the very first line of this new project. 
-And this is a awesome test - well not so awesome yet - but in future it will be. 
+And this is a awesome test - well not so awesome yet - Now is the future. 
+Adding author name - Pramod.
+First attempt towards doing something meaningful in this project. 
