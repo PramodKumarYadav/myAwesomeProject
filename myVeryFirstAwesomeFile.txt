@@ -1,0 +1,2 @@
+This is the very first line of this new project. 
+And this is a awesome test - well not so awesome yet - but in future it will be. 
